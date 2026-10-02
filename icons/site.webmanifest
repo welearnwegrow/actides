@@ -1,0 +1,23 @@
+{
+  "name": "The Tides of Atlantic College",
+  "short_name": "Tides at AC",
+  "description": "Why the sea at St Donat’s rises and falls up to 10 metres twice a day — an interactive scrollytelling explainer.",
+  "start_url": "../",
+  "display": "standalone",
+  "background_color": "#0e2438",
+  "theme_color": "#0e2438",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "../"
+}
